@@ -134,7 +134,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🤝 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements.
-
----
-
-*Built with ❤️ for the Indian Investment Community.*
